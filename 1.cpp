@@ -294,7 +294,7 @@ void _print(map<T, V> v)
 // Easier Solution Exists
 void solve()
 {
-    cout << "Hello World" << endl;
+    cout << "Hello World 1" << endl;
 }
 
 /*-------------------------------------------------------------------code.end()---------------------------------------------------------------------------------*/
