@@ -71,7 +71,7 @@ const ll BIG = 1e18; // not too close to LLONG_MAX
 // Easier Solution Exists
 void solve()
 {
-    cout << "Hello World 6" << endl;
+    cout << "Hello World 61" << endl;
 }
 
 /*-------------------------------------------------------------------code.end()---------------------------------------------------------------------------------*/
