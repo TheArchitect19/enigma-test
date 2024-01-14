@@ -3,11 +3,8 @@
 int main()
 {
     int n = 5;
-
-    // Outer loop for the number of rows
     for (int i = 1; i <= n; ++i)
     {
-        // Inner loop for spaces
         for (int j = 1; j <= n - i; ++j)
         {
             std::cout << " ";
@@ -22,6 +19,5 @@ int main()
         // Move to the next line after each row
         std::cout << std::endl;
     }
-
     return 0;
 }

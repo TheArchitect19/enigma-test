@@ -22,6 +22,5 @@ int main()
         // Move to the next line after each row
         std::cout << std::endl;
     }
-
     return 0;
 }
