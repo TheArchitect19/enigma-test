@@ -9,8 +9,6 @@ int main()
         {
             std::cout << " ";
         }
-
-        // Inner loop for printing '*' characters
         for (int k = 1; k <= 2 * i - 1; ++k)
         {
             std::cout << "*";
